@@ -125,13 +125,25 @@ cd RSVP-Tracker
 2. Create an event and share the unique link with invitees.
 3. Track responses via the dashboard.
 
----
 
 ## Screenshots
+### Welcome Screen
+![Welocme Screen](https://github.com/user-attachments/assets/76c2fd89-0452-419f-869e-4d57db1b6219)
+
 ### Home Page
-![Home Page](https://via.placeholder.com/800x400)
-### Event Dashboard
-![Event Dashboard](https://via.placeholder.com/800x400)
+![Home Page](https://github.com/user-attachments/assets/0fb8d0af-0b27-4d1e-b6f2-ec82466e5ae2)
+
+### Create Event Page
+![Create Event](https://github.com/user-attachments/assets/9f57a871-7378-42ef-9adc-94ffed073769)
+
+### My Events
+![My Events](https://github.com/user-attachments/assets/d26eb526-32e4-4b7c-8477-5a7c9e0a8d54)
+
+### Responses Dashboard
+![Responses Dashboard](https://github.com/user-attachments/assets/1ace3fe8-03a5-47e0-b90d-5a514a39a212)
+
+### Shareable Response form
+![Shareable Response form](https://github.com/user-attachments/assets/1c0e9845-9722-4c41-8bfe-61d6a9b0946e)
 
 ---
 
