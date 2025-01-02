@@ -19,6 +19,7 @@ const App = () => {
       {/* Public Routes */}
       <Route path="/register" element={<RegisterPage />} />
       <Route path="/login" element={<LoginPage />} />
+      <Route path="/event/:eventId" element={<EventFormPage />} />
       
       {/* Protected Routes with PrivateRoute */}
       <Route 
@@ -32,10 +33,6 @@ const App = () => {
       <Route 
         path="/view-event" 
         element={<PrivateRoute element={<ViewEventsPage />} />} 
-      />
-      <Route 
-        path="/event/:eventId" 
-        element={<PrivateRoute element={<EventFormPage />} />} 
       />
       <Route 
         path="/event/:eventId/responses" 
