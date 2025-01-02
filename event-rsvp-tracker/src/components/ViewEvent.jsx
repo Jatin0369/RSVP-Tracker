@@ -48,6 +48,7 @@ const ViewEventsPage = () => {
               <div className="bg-gray-50 p-4 rounded-md border border-gray-300">
                 <h3 className="text-xl font-medium text-gray-700 mb-2">Shareable Link</h3>
                 <p className="text-gray-600">
+                  {console.log(import.meta.env.VITE_FRONTEND_URL)}
                   <a
                     href={`${import.meta.env.VITE_FRONTEND_URL}/event/${event._id}`}
                     target="_blank"
